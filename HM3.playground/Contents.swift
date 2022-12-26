@@ -3,7 +3,7 @@ print("--------------------Задание 1--------------------\nНаписат�
 
 class Calc {
     var a: Int = 0;
-    var b: Int = 0;
+    var b: Int = 1;
     
     init(a: Int, b: Int) {
         self.a = a;
